@@ -2,3 +2,4 @@
 git init: To initialize
 2.git add:To add new files to the staging area
 3.git commit: to commit the changes
+4.rm -rf .git: to delete git folder
