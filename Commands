@@ -5,3 +5,4 @@ git init: To initialize
 4.rm -rf .git: to delete git folder
 5.git clone: to make a copy of the project into your local computer
 check pr change:
+check pr2
